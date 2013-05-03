@@ -1,8 +1,5 @@
 Eggs
 Bacon
-Flour
-Cheese
-Yeast
 Cat food
 This is a change
 I'd quite like a butler and a massive mansion
