@@ -1,5 +1,6 @@
-Buy a car
-Insure car
+Insure Car
+Buy car 
+
 Here's hoping it goes well
 MOT car
 Pah
